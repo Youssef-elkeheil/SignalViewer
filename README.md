@@ -1,2 +1,3 @@
 # SignalViewer
-Our first project in DSP
+Desktop app using PyQt5 for signal visualization.
+
